@@ -1,0 +1,10 @@
+2023-03-20 11:44:13,016 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-20 11:45:25,743 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:creditCardBillPayment-spring-framework-3:0.0.1-SNAPSHOT @ /home/ubuntu/Documents/creditCardPaymentSpringSecurity6/creditCardBillPayment-spring-framework-3/pom.xml.
+2023-03-20 11:45:26,638 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /creditCardBillPayment-spring-framework-3/src/main/java
+2023-03-20 11:45:26,638 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /creditCardBillPayment-spring-framework-3/src/main/resources
+2023-03-20 11:45:26,639 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /creditCardBillPayment-spring-framework-3/src/main/resources
+2023-03-20 11:45:26,639 [Worker-14: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /creditCardBillPayment-spring-framework-3/src/test/java
+2023-03-20 11:45:26,754 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2023-03-20 11:45:29,417 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-20 11:45:29,436 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-03-20 11:45:29,440 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/ubuntu/Documents/creditCardPaymentSpringSecurity6/creditCardBillPayment-spring-framework-3/src/test/resources
